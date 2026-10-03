@@ -1,0 +1,10 @@
+Technical University of Munich|tum.de
+Karlsruhe Institute of Technology|kit.edu
+RWTH Aachen University|rwth-aachen.de
+Technische Universität Berlin|tu.berlin
+Leuphana University Lüneburg|leuphana.de
+University of Freiburg|uni-freiburg.de
+University of Hohenheim|uni-hohenheim.de
+TU Dresden|tu-dresden.de
+University of Stuttgart|uni-stuttgart.de
+University of Bonn|uni-bonn.de

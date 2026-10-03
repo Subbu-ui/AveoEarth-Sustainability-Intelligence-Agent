@@ -1,0 +1,63 @@
+# -----------------------------
+# Secrets
+# -----------------------------
+.env
+
+# -----------------------------
+# Python environment/cache
+# -----------------------------
+.venv/
+__pycache__/
+*.pyc
+
+# -----------------------------
+# Logs and runtime history
+# -----------------------------
+scheduled_logs/
+agent_logs/
+history/
+snapshots/
+*.log
+
+# -----------------------------
+# Manager report copies
+# -----------------------------
+Manager_Report_Data/
+
+# -----------------------------
+# Old / experimental Python scripts
+# -----------------------------
+ai_verifier.py
+verify_funding.py
+strict_verifier.py
+funding_agent.py
+
+# -----------------------------
+# Intermediate funding outputs
+# -----------------------------
+funding_candidates.csv
+funding_shortlist.csv
+verified_funding.csv
+strict_verified_funding.csv
+clean_funding_opportunities.csv
+final_funding_opportunities.csv
+
+# -----------------------------
+# Intermediate Europe outputs
+# -----------------------------
+europe_sustainability_candidates.csv
+europe_sustainability_intelligence.csv
+clean_europe_sustainability_intelligence.csv
+final_europe_sustainability_intelligence.csv
+
+# -----------------------------
+# VS Code / Windows
+# -----------------------------
+.vscode/
+Thumbs.db
+.DS_Store
+# Additional intermediate / recovery files
+india_sustainability_candidates.csv
+india_sustainability_intelligence.csv
+open_funding_candidates.csv
+restore_clean_state.py
